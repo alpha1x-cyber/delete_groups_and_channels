@@ -1,4 +1,4 @@
-#🛑 Telegram Bulk Leave Tool
+# 🛑 Telegram Bulk Leave Tool
 
 This tool allows you to automatically leave all Telegram channels and groups at once, without the need to leave them one by one manually.
 
@@ -6,15 +6,28 @@ This tool allows you to automatically leave all Telegram channels and groups at 
 🛠️ How to Use
 
 1️⃣ Install Requirements
+
 pkg install python
+
+
 git clone https://github.com/alpha1x-cyber/delete_groups_and_channels.git
+
+
 cd delete_groups_and_channels
+
 ls
+
+
 pip install -r requirements.txt
+
+
  python deletegroupchannel.py
+
+ 
 2️⃣ Run the Tool
 
-python main.py
+python deletegroupchannel.py
+
 
 You will be asked to enter your API ID and API Hash from my.telegram.org and log in using your phone number.
 
