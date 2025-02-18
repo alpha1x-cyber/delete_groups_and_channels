@@ -10,8 +10,7 @@ This tool allows you to automatically leave all Telegram channels and groups at 
 pkg install python
 
 
-git clone https://github.com/alpha1x-cyber/delete_groups_and_channels.git
-
+git clone https://github.com/alpha1x-cyber/delete_groups_channels.git
 
 cd delete_groups_and_channels
 
