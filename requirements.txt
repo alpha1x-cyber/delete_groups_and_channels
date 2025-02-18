@@ -1,0 +1,6 @@
+webbrowser
+colorama
+tqdm
+telethon
+time
+pyfiglet
