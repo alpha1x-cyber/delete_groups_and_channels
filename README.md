@@ -29,7 +29,11 @@ pip install -r requirements.txt
 python deletegroupchannel.py
 
 
-You will be asked to enter your API ID and API Hash from my.telegram.org and log in using your phone number.
+You will be asked to enter your API ID and API Hash from 
+
+# https://my.telegram.org/auth
+
+and log in using your phone number.
 
 📜 Requirements
 
@@ -48,7 +52,11 @@ Alpha Cyber
 💻 Enjoy a hassle-free way to manage your Telegram account!
 # 🛑 أداة مغادرة جميع القنوات والمجموعات في تيليجرام دفعة واحدة  
 هذه الأداة تسمح لك بمغادرة جميع القنوات والمجموعات في **تيليجرام** تلقائيًا، دون الحاجة إلى مغادرتها يدويًا واحدة تلو الأخرى.  
-سيُطلب منك إدخال API ID و API Hash من my.telegram.org وتسجيل الدخول باستخدام رقم هاتفك.
+سيُطلب منك إدخال API ID و API Hash من 
+
+# https://my.telegram.org/auth
+
+وتسجيل الدخول باستخدام رقم هاتفك.
 📜 المتطلبات
 
 حساب تيليجرام
