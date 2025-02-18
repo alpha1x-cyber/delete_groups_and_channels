@@ -15,7 +15,7 @@ for i, j in enumerate(tqdm(data_loader)):
     sleep(0.01)	
     
 
-print(Fore.CYAN+ " ♤ Nothing hack just i help you for exit your all groups and chanel telegram ♤")
+print(Fore.CYAN+ " ♤ Nothing hack just i help you for exit your all groups and Channels  telegram ♤")
 
 webbrowser.open("https://www.instagram.com/yassindeveloper?igsh=ZzFjNXlnMTVxcG5p")
 
